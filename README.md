@@ -34,6 +34,7 @@ You can support the creator of this project by starring, sharing, using cState a
 * [Content Ignite](https://status.contentignite.com/)
 * [FSCI](https://status.fsci.in/)
 * [Testing Farm](https://status.testing-farm.io/)
+* [National Speech and Debate](https://status.speechanddebate.org/)
 
 *Want your status page here? [Create a PR](https://github.com/cstate/cstate/edit/dev/README.md)!*
 
